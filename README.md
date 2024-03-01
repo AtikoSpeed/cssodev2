@@ -1,6 +1,6 @@
 # İkinci CSS Ödevi
 
-Bu ödev, Kodluyoruz.org/Patika.dev frontend patikası CSS dersinin ikinci ödevidir.
+Bu ödev, Kodluyoruz.org/Patika.dev Front-End Patikası CSS dersinin ikinci ödevidir.
 
 ## Kapsam
 
