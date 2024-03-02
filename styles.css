@@ -1,11 +1,11 @@
 .container {
   width: calc(90% - 4px);
   margin: 0 auto;
-  padding: 0 20px;
   box-sizing: border-box;
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-bottom: 1px;
 }
 
 .gri {
@@ -14,4 +14,35 @@
 
 .noMargin {
     margin: 0%;
+}
+
+.noPadding {
+    padding: 0%;
+}
+
+.blueCont {
+  margin: 2px 0;
+  padding: 0 20px;
+  /* box-sizing: border-box; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blueCont__1 {
+  width: 37%;
+  background-color: #7EE5DA;
+}
+
+.blueCont__2 {
+  background-color: #70CCC2;
+}
+
+.blueCont__3 {
+  background-color: #62B3AA;
+}
+
+#footer {
+  text-align: center;
+  font-size: 13px;
 }
