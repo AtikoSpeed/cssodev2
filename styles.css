@@ -21,29 +21,30 @@
     padding: 0%;
 }
 
-.blueCont {
-  margin: 2px 0;
-  padding: 0 20px;
-  /* box-sizing: border-box; */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.blueCont__1 {
+.blueCont1 {
   width: 37%;
   background-color: #7EE5DA;
 }
 
-.blueCont__2 {
+.blueCont2 {
   background-color: #70CCC2;
 }
 
-.blueCont__3 {
+.blueCont3 {
   background-color: #62B3AA;
 }
 
 #footer {
   text-align: center;
   font-size: 13px;
+}
+
+.font13 {
+  font-size: 13px;
+}
+
+table {
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
